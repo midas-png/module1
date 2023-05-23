@@ -1,0 +1,17 @@
+[
+    {"name": "Кресло", "price":4000, "discountPrice":3500, "category":"мебель", "parameters": "700x1000x600", "weight": 3.5}, 
+    {"name": "Кресло", "price":3400, "discountPrice":3100, "category":"мебель", "parameters": "800x900x600", "weight": 3.6}, 
+    {"name": "Ваза для цветов", "price":1100, "category":"декор", "parameters": "150x250x150", "weight": 0.6}, 
+    {"name": "Стул", "price":2300, "category":"мебель", "parameters": "600x1200x600", "weight": 1.5}, 
+    {"name": "Лампа", "price":4800, "category":"свет", "parameters": "200x600x300", "weight": 1.0}, 
+    {"name": "Ваза для цветов", "price":2300, "discountPrice":1900, "category":"декор", "parameters": "200x300x300", "weight": 0.3}, 
+    {"name": "Серый стул", "price":4100, "discountPrice":2500, "category":"мебель", "parameters": "600x1200x600", "weight": 2.5}, 
+    {"name": "Черный стул", "price":3300, "category":"мебель", "parameters": "700x1000x700", "weight": 1.9}, 
+    {"name": "Стул", "price":3900, "discountPrice":3500, "category":"мебель", "parameters": "600x1200x600", "weight": 1.5}, 
+    {"name": "Стул", "price":4500, "category":"мебель", "parameters": "600x1200x600", "weight": 2.5}, 
+    {"name": "Диван серый", "price":20000, "category":"мебель", "parameters": "1200x1000x800", "weight": 8.5}, 
+    {"name": "Диван желтый", "price":34000, "discountPrice":30500, "category":"мебель", "parameters": "2000x1000x900", "weight": 10.5}, 
+    {"name": "Кресло синее", "price":7000, "category":"мебель", "parameters": "800x1000x8600", "weight": 3.5}, 
+    {"name": "Кресло зеленое", "price":8000,  "category":"мебель", "parameters": "800x1000x800", "weight": 3.0}
+]
+
