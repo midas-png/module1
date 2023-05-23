@@ -1,5 +1,9 @@
 .catalog__wrapper {
   padding: 46px 150px 95px;
+
+  @media (max-width: 768px) {
+    padding: 46px 45px 95px;
+  }
 }
 
 .catalog {
@@ -34,6 +38,7 @@
 
 .header__title {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
 }
@@ -70,9 +75,11 @@
 }
 
 .catalog__body {
-  display: grid;
-  grid-auto-columns: 1fr;
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: auto;
+  display: flex;
+  flex-wrap: wrap;
   gap: 48px 20px;
+
+  @media (max-width: 768px) {
+    justify-content: center;
+  }
 }
