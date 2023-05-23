@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.95286698.css",
+    "main.js": "/static/js/main.2e56705b.js",
+    "static/media/14.png": "/static/media/14.1d5df0b5b07805496f85.png",
+    "static/media/13.png": "/static/media/13.9f11728e19fac8b2b02d.png",
+    "static/media/15.png": "/static/media/15.6dd071caad2cfe89406d.png",
+    "static/media/11.png": "/static/media/11.5f68a8202209257e47ca.png",
+    "static/media/9.png": "/static/media/9.c7d434c4d2bfe384520a.png",
+    "static/media/10.png": "/static/media/10.5bdfb90bb1f5ed87c3be.png",
+    "static/media/12.png": "/static/media/12.c46769c3302ac60f52f1.png",
+    "static/media/7.png": "/static/media/7.ebfd7c117be101aec682.png",
+    "static/media/8.png": "/static/media/8.3a4b261a606823cbfa75.png",
+    "static/media/2.png": "/static/media/2.6bd0f8f645ffb9f9444e.png",
+    "static/media/4.png": "/static/media/4.2ae411362f15ec45c44c.png",
+    "static/media/3.png": "/static/media/3.e305a0ae2ecd8c9575f6.png",
+    "static/media/1.png": "/static/media/1.2370a48cfa957d815479.png",
+    "static/media/6.png": "/static/media/6.7878cff24bd3ae84683c.png",
+    "static/media/5.png": "/static/media/5.23c4b9a4988d24e839fd.png",
+    "static/media/basket.svg": "/static/media/basket.ec7420272dfedab6e4e9df4f0abe2b74.svg",
+    "static/media/stars.svg": "/static/media/stars.3bfb4dbd71ac603de2ce3e7d5a21d810.svg",
+    "static/media/card_cart.svg": "/static/media/card_cart.ffbc596ef8997c28a635afdb3c760755.svg",
+    "static/media/favorite.svg": "/static/media/favorite.d8a9b26a01592a3934d5b5cc662485df.svg",
+    "static/media/reverse.svg": "/static/media/reverse.b1a799051cbdd5e3f1b52eaf611060c0.svg",
+    "index.html": "/index.html",
+    "static/media/search.svg": "/static/media/search.f06420305dd1e988e5e4c3a38f8a12d6.svg",
+    "main.95286698.css.map": "/static/css/main.95286698.css.map",
+    "main.2e56705b.js.map": "/static/js/main.2e56705b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95286698.css",
+    "static/js/main.2e56705b.js"
+  ]
+}
