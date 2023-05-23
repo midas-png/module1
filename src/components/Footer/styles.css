@@ -24,6 +24,10 @@
   font-size: 36px;
   font-weight: 400;
   color: #1b1a1a;
+
+  @media (max-width: 450px) {
+    text-align: center;
+  }
 }
 
 .form__description {

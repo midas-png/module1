@@ -1,8 +1,13 @@
+import { useState } from 'react';
 import { Assets } from 'assets';
 import { Logo } from 'ui';
+import { GiHamburgerMenu } from 'react-icons/gi';
+import { Sidebar } from 'components';
 import './styles.css';
 
 export const Header = () => {
+  const [isSidebarOpen, setSidebarOpen] = useState(false);
+
   return (
     <header className='header'>
       <Logo />
@@ -17,6 +22,11 @@ export const Header = () => {
         <Assets.SVGSearch />
         <Assets.SVGBasket />
       </div>
+      <GiHamburgerMenu
+        className='burgermenu'
+        onClick={() => setSidebarOpen(true)}
+      />
+      <Sidebar isOpen={isSidebarOpen} onCancel={() => setSidebarOpen(false)} />
     </header>
   );
 };
